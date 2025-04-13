@@ -25,9 +25,12 @@ Whether you’re a student, professional, or anyone who loves staying organized,
 
 ---
 
-## Demo
+## App Preview
 
-> _Coming soon: Live link will be added once deployed to Netlify or GitHub Pages!_
+![image](https://github.com/user-attachments/assets/85169406-9382-472d-9a04-5cae97f60620)
+
+
+
 
 ---
 
